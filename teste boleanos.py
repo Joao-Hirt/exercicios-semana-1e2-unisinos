@@ -1,0 +1,6 @@
+Nome1 = input("Digite o nome do primeiro aluno: ")
+Idade1 = int(input("Digite a idade do primeiro aluno: "))
+Nome2 = input("Digite o nome do segundo aluno: ")
+Idade2 = int(input("Digite a idade do segundo aluno: "))
+if Idade1 > Idade2: print ("O aluno chamado {} é mais velho!".format (Nome1)) 
+else: print ("O aluno chamado {} é mais velho!".format (Nome2)) 
